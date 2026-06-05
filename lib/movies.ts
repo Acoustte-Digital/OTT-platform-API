@@ -3,7 +3,7 @@ import { Movie } from "@/types";
 export const movies: Movie[] = [
   {
     id: "1",
-    title: "Shadow Protocol",
+    title: "Shadow",
     description: "An ex-agent uncovers a global conspiracy.",
     image: "https://example.com/images/shadow-protocol.jpg",
     videoUrl: "https://example.com/videos/shadow-protocol.mp4",
